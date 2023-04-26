@@ -5,12 +5,13 @@ import time
 import logging
 from tuya_connector import TuyaOpenAPI, TUYA_LOGGER
 
-ACCESS_ID = "ruyrak7f8cc3ryxg7akw"
-ACCESS_KEY = "2559577a59664f51bd6bdc7de209d8b7"
+ACCESS_ID = "put here your access id"
+ACCESS_KEY = "put here your access key"
+#selecione o servidor america para esta api
 API_ENDPOINT = "https://openapi.tuyaus.com"
 
 #Device_id
-DEVICE_ID ="eb591c3b52dfa828d32fvc"
+DEVICE_ID ="your device id"
 
 
 
